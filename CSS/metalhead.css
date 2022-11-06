@@ -1,0 +1,20 @@
+/**************************** Layout ******************************/
+body {color: white;}
+body {background-color: 	#080808;}
+.box {
+    width: 1000px;
+    list-style-position: inside;
+    background-color: 		#202020;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box2 {
+    width: 1000px;
+    height: 1000px;
+    list-style-position: inside;
+    background-color: 		#202020;
+    margin-right: auto;
+    margin-left: auto;
+}
+
